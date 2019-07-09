@@ -9,3 +9,9 @@ I begin with raw data from basketball-reference.com and clean the data for analy
 From there, I begin to further understand the data through visual representation and statistical analysis. 
 
 Lastly, I utilize linear regression models to learn what features are most relevant and build a prediction model for players' salaries based upon their statistics from on-court performances.
+
+
+The completed project files to review are: 
+Capstone 1: NBA Player Value Based Upon On-Court Performance.docx
+Capstone 1: NBA Player Value Based Upon On-Court Performance.pdf (visuals)
+NBA_Player_Value_Capstone.ipynb
